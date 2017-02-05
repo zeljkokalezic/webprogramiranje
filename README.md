@@ -1,2 +1,2 @@
-# webprogramiranje
+# Web Programiranje
 Kurs Web Programiranja
